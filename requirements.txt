@@ -1,0 +1,16 @@
+langchain
+langchain_community
+openai
+chromadb
+langchain-experimental
+langchain-openai
+unstructured[all-docs]
+pypdf
+pillow
+pydantic
+lxml
+matplotlib
+chromadb
+tiktoken
+PyMuPDF
+Spire.PDF
